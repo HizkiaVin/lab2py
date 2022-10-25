@@ -1,9 +1,10 @@
 # lab2py
 Latihan Python
 
-Jika anda belum mempunyai aplikasi Phyton, silahkan download pad situs resmi python.org, lalu ikuti langkah instalasinya.
+Jika anda belum mempunyai aplikasi Phyton, silahkan download pada situs resmi python.org, lalu ikuti langkah instalasinya.
 ![Download python](https://user-images.githubusercontent.com/116176746/197666495-415a2a51-738f-4cbf-82f8-638e600391c4.png)
 Checklist pilihan Add Python.exe to PATH, agar python dapat dipanggil dari CMD.
+![Install Python](https://user-images.githubusercontent.com/116176746/197667547-2a765b18-9526-4b10-bcca-f741a4d04852.png)
 
 Setelah proses instalasi selesai, mari kita coba beberapa latihan berikut
 Buka CMD pada laptop anda, lalu masukkan perintah >python untuk memanggil python dari CMD

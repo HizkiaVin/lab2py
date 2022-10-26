@@ -19,5 +19,8 @@ Contoh: Kita akan menampilkan tulisan "Hello" dan "Saya sedang belajar python". 
 
 Latihan kedua adalah menjumlahkan dua buah bilangan menggunakan variable a dan b.
 Kita akan mendefinisikan variable a dengan nilai 8 dan variable b dengan nilai 6, lalu mencetak nilai variable a dan b, dan mencetak hasil penjumlahan a+b
+![latihan 2](https://user-images.githubusercontent.com/116176746/197988184-ff760a85-5839-4e3b-8689-1aeab5420fee.png)
 
 
+Latihan 3 adalah menjalankan IDLE
+Buka IDLE python yang telah kita download sebelumnya, lalu buat file baru dengan nama latihan3.py pada direktori kerja anda

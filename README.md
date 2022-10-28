@@ -45,5 +45,8 @@ print("Hasil Pembagian {1}/{0}=%s".format(a,b) %(a/b))
 
 ![latihan 3](https://user-images.githubusercontent.com/116176746/198471443-da553ed0-500a-4795-b9b3-9647cb8f4a67.png)
 
-Kemudian kita Run, jika sesuai maka output yang dditampilkan akan seperti gambar dibawah
+Kemudian kita Run, jika sesuai maka output yang ditampilkan akan seperti gambar dibawah
 ![output](https://user-images.githubusercontent.com/116176746/198471484-686412f4-eda2-4baf-b26e-c3aee6d1eb20.png)
+
+
+Sekian & Terima Kasih :)

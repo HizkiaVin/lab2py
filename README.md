@@ -27,19 +27,24 @@ Buka IDLE python yang telah kita download sebelumnya, lalu buat file baru dengan
 Masukkan perintah berikut:
 
 #Input nilai variable
+
 a=input("Masukkan Nilai A =")
 b=input("Masukkan Nilai B =")
 
 #Cetak nilai variable
+
 print("Variable A =", a)
 print("Variable B =", b)
 
 #Cetak hasil operasi kedua variable dengan string format
+
 print("Hasil Penggabung {1}&{0}=%s".format(a,b) %(a+b))
 
 #Konversi nilai variable
+
 a=int(a)
 b=int(b)
+
 print("Hasil Penjumlahan {1}+{0}=%s".format(a,b) %(a+b))
 print("Hasil Pembagian {1}/{0}=%s".format(a,b) %(a/b))
 

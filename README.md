@@ -23,4 +23,27 @@ Kita akan mendefinisikan variable a dengan nilai 8 dan variable b dengan nilai 6
 
 
 Latihan 3 adalah menjalankan IDLE
-Buka IDLE python yang telah kita download sebelumnya, lalu buat file baru dengan nama latihan3.py pada direktori kerja anda
+Buka IDLE python yang telah kita download sebelumnya, lalu buat file baru dengan nama latihan3.py pada direktori kerja anda.Kita akan menggunakan fungsi input untuk mengambil nilai variabel dari keyboard.
+Masukkan perintah berikut:
+
+#Input nilai variable
+a=input("Masukkan Nilai A =")
+b=input("Masukkan Nilai B =")
+
+#Cetak nilai variable
+print("Variable A =", a)
+print("Variable B =", b)
+
+#Cetak hasil operasi kedua variable dengan string format
+print("Hasil Penggabung {1}&{0}=%s".format(a,b) %(a+b))
+
+#Konversi nilai variable
+a=int(a)
+b=int(b)
+print("Hasil Penjumlahan {1}+{0}=%s".format(a,b) %(a+b))
+print("Hasil Pembagian {1}/{0}=%s".format(a,b) %(a/b))
+
+![latihan 3](https://user-images.githubusercontent.com/116176746/198471443-da553ed0-500a-4795-b9b3-9647cb8f4a67.png)
+
+Kemudian kita Run, jika sesuai maka output yang dditampilkan akan seperti gambar dibawah
+![output](https://user-images.githubusercontent.com/116176746/198471484-686412f4-eda2-4baf-b26e-c3aee6d1eb20.png)
